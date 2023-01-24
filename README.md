@@ -1,7 +1,7 @@
 # Product Sales Analysis
 
 ## Aim
-Analyzing the product sales in different territories and  predicting the sales and trends by exploratory data analysis and visualizations.
+Analyzing the product sales in different territories and  predicting the sales and trends by exploratory data analysis, visualizations and machine learning.
 
 
 
