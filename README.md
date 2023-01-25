@@ -24,6 +24,8 @@ Then I'm analyzing   the total sales  in different months to get the insight  ho
 
 Then after that I'm plotting the months against the total sales of different products to get the inside of the 
 product sales and trends in different months. 
+## Product vs Quantity ordered
+![sales-1](https://user-images.githubusercontent.com/72175654/214647801-66922c23-6c45-4869-92cc-83074e38b0fe.png)
 
 ## Months Vs Total Sales 
 
