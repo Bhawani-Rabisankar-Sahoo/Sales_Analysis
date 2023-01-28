@@ -29,3 +29,4 @@ product sales and trends in different months.
 
 ## Months Vs Total Sales 
 
+![sales-2](https://user-images.githubusercontent.com/72175654/215282847-b0541ee1-feb5-419b-abd1-0486ff06feb8.png)
