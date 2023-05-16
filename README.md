@@ -32,3 +32,5 @@ product sales and trends in different months.
 ## Product vs Quantity ordered
 ![sales-1](https://user-images.githubusercontent.com/72175654/214647801-66922c23-6c45-4869-92cc-83074e38b0fe.png)
 
+## Dashboard
+
