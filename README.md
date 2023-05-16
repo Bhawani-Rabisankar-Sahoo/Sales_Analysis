@@ -33,4 +33,6 @@ product sales and trends in different months.
 ![sales-1](https://user-images.githubusercontent.com/72175654/214647801-66922c23-6c45-4869-92cc-83074e38b0fe.png)
 
 ## Dashboard
+![sales-3](https://github.com/Bhawani-Rabisankar-Sahoo/Sales_Analysis/assets/72175654/48ccefce-9b5c-4ebc-9f56-d343a54e3da4)
+
 
